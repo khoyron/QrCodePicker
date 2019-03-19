@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E-Academy</string>
+    <string name="app_description">E-Academy adalah aplikasi untuk \nmempermudah hubungan antara siswa dengan sekolah
+        dalam kegiatan belajar mengajar. \nDengan aplikasi ini, memungkinkan siswa untuk melihat informasi penting berkaitan dengan
+        siswa. \nseperti, nilai raport, absensi siswa, jadwal pelajaran, kontak guru dan masih banyak lagi.
+    </string>
+</resources>

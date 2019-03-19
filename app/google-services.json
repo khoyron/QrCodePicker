@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "637260928836",
+    "firebase_url": "https://e-akademik-cc0e4.firebaseio.com",
+    "project_id": "e-akademik-cc0e4",
+    "storage_bucket": "e-akademik-cc0e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637260928836:android:63e61acb54bdf62a",
+        "android_client_info": {
+          "package_name": "dev.smart.e_akademik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637260928836-t6ap07ac8o5c8783t0fp4gv9vgh1bh6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.smart.e_akademik",
+            "certificate_hash": "fa9844dbb6b7ac86b861773c7d44c3464f07a1d9"
+          }
+        },
+        {
+          "client_id": "637260928836-vkooqcvj6nalib2acl0g6ck5opnevf79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS3PJBrPEvxn1NIYzwP5bybSZlNa2kusE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637260928836-vkooqcvj6nalib2acl0g6ck5opnevf79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

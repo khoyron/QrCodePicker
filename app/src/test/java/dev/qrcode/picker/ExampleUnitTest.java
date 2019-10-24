@@ -1,4 +1,4 @@
-package dev.smart.e_akademik;
+package dev.qrcode.picker;
 
 import org.junit.Test;
 

@@ -1,7 +1,5 @@
 <resources>
-    <string name="app_name">E-Academy</string>
-    <string name="app_description">E-Academy adalah aplikasi untuk \nmempermudah hubungan antara siswa dengan sekolah
-        dalam kegiatan belajar mengajar. \nDengan aplikasi ini, memungkinkan siswa untuk melihat informasi penting berkaitan dengan
-        siswa. \nseperti, nilai raport, absensi siswa, jadwal pelajaran, kontak guru dan masih banyak lagi.
+    <string name="app_name">QrCode Picker</string>
+    <string name="app_description"> Get QrCode or barcode in android
     </string>
 </resources>

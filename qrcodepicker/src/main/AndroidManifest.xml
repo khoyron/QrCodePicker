@@ -1,2 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.qrcodepicker" />
+    package="com.example.qrcodepicker">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+</manifest>

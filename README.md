@@ -1,7 +1,5 @@
 # QrCodePicker
 
-# QrCodePicker
-
 [![API](https://img.shields.io/badge/API-14%2B-red.svg?style=flat)](https://android-arsenal.com/api?level=14)
 [![](https://jitpack.io/v/mkhoiron/Actionsheet-android.svg)](https://jitpack.io/#mkhoiron/Actionsheet-android/0.1)
 

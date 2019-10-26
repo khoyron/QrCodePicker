@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/QrCodePicker.iml" filepath="$PROJECT_DIR$/QrCodePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/QrCodePicker-app.iml" filepath="$PROJECT_DIR$/app/QrCodePicker-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qrcodepicker/QrCodePicker-qrcodepicker.iml" filepath="$PROJECT_DIR$/qrcodepicker/QrCodePicker-qrcodepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Videos-QrCodePicker.iml" filepath="$PROJECT_DIR$/Videos-QrCodePicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/qrcodepicker/qrcodepicker.iml" filepath="$PROJECT_DIR$/qrcodepicker/qrcodepicker.iml" />
     </modules>

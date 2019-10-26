@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    android:orientation="vertical"
+<RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:layout_height="match_parent">
 
-    <RelativeLayout
+    <LinearLayout
+        android:layout_centerInParent="true"
         android:layout_width="match_parent"
-        android:layout_height="300dp">
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
 
-        <ImageView
-            android:layout_width="200dp"
-            android:layout_height="200dp"
-            android:layout_centerInParent="true"
-            android:id="@+id/image_barcode">
-        </ImageView>
+        <Button
+            android:id="@+id/btn_xample_qrcode"
+            android:text="example qrcode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp">
 
-    </RelativeLayout>
+        </Button>
 
-    <com.example.qrcodepicker.QrcodePicker
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/qrcode_picker">
-    </com.example.qrcodepicker.QrcodePicker>
-<!--    <Button-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:text="gcs"-->
-<!--        android:id="@+id/btn"></Button>-->
+        <Button
+            android:id="@+id/btn_xample_string_to_qrcode"
+            android:text="example string to qrcode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp">
 
+        </Button>
 
-</LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

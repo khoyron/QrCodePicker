@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Music-QrCodePicker.iml" filepath="$PROJECT_DIR$/.idea/modules/Music-QrCodePicker.iml" group="QrCodePicker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Music-QrCodePicker-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Music-QrCodePicker-app.iml" group="QrCodePicker/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qrcodepicker/Music-QrCodePicker-qrcodepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/qrcodepicker/Music-QrCodePicker-qrcodepicker.iml" group="QrCodePicker/qrcodepicker" />
       <module fileurl="file://$PROJECT_DIR$/QrCodePicker.iml" filepath="$PROJECT_DIR$/QrCodePicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/QrCodePicker-app.iml" filepath="$PROJECT_DIR$/app/QrCodePicker-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/qrcodepicker/QrCodePicker-qrcodepicker.iml" filepath="$PROJECT_DIR$/qrcodepicker/QrCodePicker-qrcodepicker.iml" />

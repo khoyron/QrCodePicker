@@ -2,14 +2,14 @@ package com.example.qrcodepicker
 
 
 import android.app.Dialog
-import android.content.Context
-import android.graphics.Color
-import android.graphics.drawable.ColorDrawable
-import android.view.LayoutInflater
-import android.view.ViewGroup
 import android.view.Window
+import android.graphics.Color
+import android.view.ViewGroup
+import android.content.Context
 import android.widget.ImageView
+import android.view.LayoutInflater
 import android.widget.RelativeLayout
+import android.graphics.drawable.ColorDrawable
 
 object QRPopUp {
 

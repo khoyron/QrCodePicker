@@ -1,15 +1,15 @@
 package com.example.qrcodepicker
 
-import android.widget.LinearLayout
 import android.Manifest
+import android.os.Build
+import android.view.View
 import android.app.Activity
+import android.view.ViewGroup
 import android.app.AlertDialog
 import android.content.Context
-import android.content.pm.PackageManager
-import android.os.Build
 import android.util.AttributeSet
-import android.view.View
-import android.view.ViewGroup
+import android.widget.LinearLayout
+import android.content.pm.PackageManager
 import me.dm7.barcodescanner.zbar.Result
 import me.dm7.barcodescanner.zbar.ZBarScannerView
 
@@ -118,6 +118,5 @@ class QrcodePicker : LinearLayout, View.OnClickListener,ZBarScannerView.ResultHa
     override fun handleResult(rawResult: Result?) {
         callback.responseScanner(rawResult?.contents)
     }
-
 
 }

@@ -23,7 +23,7 @@ allprojects {
  
 ```gradle
 dependencies {
-	implementation 'com.github.mkhoiron:QrCodePicker:1'
+	implementation 'com.github.khoyron:QrCodePicker:1'
 }
 ```
 ## QRcodeScanner
